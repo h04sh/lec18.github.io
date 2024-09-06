@@ -1,0 +1,11 @@
+header nav {
+  background-color: red;
+}
+header ul {
+  list-style: none;
+  margin: 10px;
+}
+header li {
+  text-decoration: none;
+  color: black;
+}/*# sourceMappingURL=style.css.map */
